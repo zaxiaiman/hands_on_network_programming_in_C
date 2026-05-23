@@ -1,4 +1,4 @@
-# hands_on_network_programming_in_C
+# network_programming_in_C
 Trying the "Hands-On Network Programming with C" as a hobby
 
 Focusing on Linux/Unix machine only!
@@ -21,8 +21,8 @@ ch01_unix_list  ch01_unix_list.c
 4) Run the file
 - $~/Desktop/coding-projects/7_Hands_On_Network_Programming_In_C/Chapter 1$ ./ch01_unix_list
 
-a. lo      IPV6 /n
-b. enp1s0  IPV6 /n
+a. lo      IPV6
+b. enp1s0  IPV6
 c. wlp0s20f3       IPV6
 d. lo      IPV4
 e. wlp0s20f3       IPV4
