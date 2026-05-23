@@ -9,17 +9,17 @@ Reference: https://github.com/codeplea/Hands-On-Network-Programming-with-C/tree/
 #COMPILING AND RUNNING C-PROGRAM IN LINUX
 
 1) Make the C code executable
-- $: ~/Desktop/coding-projects/7_Hands_On_Network_Programming_In_C/Chapter 1$ chmod +x ch01_unix_list.c
+- ~/Desktop/coding-projects/7_Hands_On_Network_Programming_In_C/Chapter 1$ chmod +x ch01_unix_list.c
 
 2) Compile the program using GCC
-- $: ~/Desktop/coding-projects/7_Hands_On_Network_Programming_In_C/Chapter 1$ gcc -Wall -o ch01_unix_list ch01_unix_list.c
+- ~/Desktop/coding-projects/7_Hands_On_Network_Programming_In_C/Chapter 1$ gcc -Wall -o ch01_unix_list ch01_unix_list.c
 
 3) List the file
-- $: ~/Desktop/coding-projects/7_Hands_On_Network_Programming_In_C/Chapter 1$ ls
+- ~/Desktop/coding-projects/7_Hands_On_Network_Programming_In_C/Chapter 1$ ls
 ch01_unix_list  ch01_unix_list.c
 
 4) Run the file
-- $: ~/Desktop/coding-projects/7_Hands_On_Network_Programming_In_C/Chapter 1$ ./ch01_unix_list
+- ~/Desktop/coding-projects/7_Hands_On_Network_Programming_In_C/Chapter 1$ ./ch01_unix_list
 
 a. lo      IPV6
 b. enp1s0  IPV6
