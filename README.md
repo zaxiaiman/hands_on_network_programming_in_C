@@ -21,12 +21,12 @@ ch01_unix_list  ch01_unix_list.c
 4) Run the file
 - $ ./ch01_unix_list
 
-a. lo      IPV6
-b. enp1s0  IPV6
-c. wlp0s20f3       IPV6
-d. lo      IPV4
-e. wlp0s20f3       IPV4
-f. lo      IPV6
-g. wlp0s20f3       IPV6
-h. wlp0s20f3       IPV6
-i. wlp0s20f3       IPV6
+a. lo      IPV6  
+b. enp1s0  IPV6  
+c. wlp0s20f3       IPV6  
+d. lo      IPV4  
+e. wlp0s20f3       IPV4  
+f. lo      IPV6  
+g. wlp0s20f3       IPV6  
+h. wlp0s20f3       IPV6  
+i. wlp0s20f3       IPV6  
